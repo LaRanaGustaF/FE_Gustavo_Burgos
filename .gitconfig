@@ -1,0 +1,6 @@
+[user]
+	name = Gustavo
+	email = gustavo.burgos04@inacapmail.cl
+[core]
+	editor = code --wait
+	autocrfl = true
